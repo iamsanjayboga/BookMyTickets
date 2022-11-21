@@ -1,0 +1,26 @@
+Purpose: 
+Over the decades, movies became so popular and widely loved content. It demonstrates our culture and entertains us now and then. 
+But at the same time without noticing a new problem has arisen I.e. the way of purchasing tickets. It has been noticed that popular 
+movies for which audiences are eagerly waiting are always in demand due to which movie tickets are sold at almost 10 X times the prices 
+and not everyone can purchase and afford them. In addition to this, most of the time buying tickets offline at the theatre does not provide 
+the selected preferred seat that which audience wants also in the end moment cancellation charges are applied.
+
+Main purpose and idea behind developing this project is to deliver and solve such issue through this. where end users can easily look for 
+their movies they want and book them with whatever seats they prefer. This booking confirmation is also received via email with QR code 
+so that data manupliation is not happening at customer side.
+
+
+Features:
+1) Filter Movies based on Langagage and Genres
+2) Become Contributer Add Movies to our Database
+3) Find and read more about movies such as director, release date and many more
+4) Researve your seat by selecting preferred seats like A1, C2 etc.
+5) Once Booked you will be notification via Email with your movie name, seats and QR code to authenticate.
+
+
+
+Technical Implementation:
+1) Dynamic creating on card based on the number of movies
+2) Designed Seat picking and seat booking using Js
+3) Generating QR code based on Movie name, Seat selected and date.
+4) While booking sending customer email for confirmation along with QR generated.
